@@ -12,6 +12,9 @@ Dashboard Creation:
 Built a visually appealing and interactive dashboard using Power BI.
 Included slicers for year selection and interactive charts for better user experience.
 
+## Dashboard
+![Screenshot Sales Dashboard](https://github.com/user-attachments/assets/a735c93a-3579-4e7d-a74d-7e6013a61e80)
+
 ## Project Insights:
 Sales and Profit Overview:
 
