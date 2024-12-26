@@ -1,4 +1,4 @@
-# PowerBI_Superstore_sales_Dashboard
+# Superstore_Data_Analysis(Interactive Sales Dashboard creation using Power BI)
 ## Description:
 This repository contains a Power BI dashboard designed to analyze the sales performance of a superstore. The dashboard presents key metrics, trends, and insights to aid decision-making.
 
